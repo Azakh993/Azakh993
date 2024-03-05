@@ -4,8 +4,12 @@
 
 I love building and exploring new technologies for a more sustainable world. 🌱
 
-- 📱 Have developed Android and Web applications
-- 🛠️ Comfortable using JetBrains Stack, Visual Studio Code, and Git
-- 💻 Worked with Java, Python, C, SQL, Firebase, Heroku, Docker, and more
-- 💾 Experienced with Windows, MacOS and Linux
-- 📫 Can be reached via [LinkedIn](https://www.linkedin.com/in/azmeerk/)
+**What I Work With:**
+
+- 💻 **Languages:** Java | Python | C | SQL | JavaScript | HTML
+- 🌍 **Development:** Android Apps | Web Apps
+- 🛠️ **Tools & Technologies:** JetBrains | VS Code | Firebase | Heroku | Docker
+- 🔁 **Version Control:** Git with GitHub Actions
+- 🖥️ **Operating Systems:** Linux | MacOS | Windows
+
+**Reach Out:** [LinkedIn](https://www.linkedin.com/in/azmeerk/)
